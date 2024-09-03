@@ -1,6 +1,6 @@
+# TASK 1- Creating a Basic Calculator
 # Overview
-As part of my initial assignment during the internship at Prodigy InfoTech
-This repository contains a basic calculator implementation in Python using the Tkinter library for the graphical user interface (GUI). The calculator allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
+As part of my initial assignment during the internship at Prodigy InfoTech I developed a Python program that contains a basic calculator implementation in Python using the Tkinter library for the graphical user interface (GUI). The calculator allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 ## Calculator Algorithm
 The calculator algorithm is based on a simple finite state machine that processes user input and performs calculations accordingly. The algorithm can be broken down into the following steps:
 User Input: The user enters a number or an operator (+, -, *, /) using the GUI buttons.
